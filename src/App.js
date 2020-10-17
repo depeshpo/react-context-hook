@@ -1,5 +1,5 @@
 import React from 'react';
-import ThemeProvider from "./themeContext";
+import ThemeProvider from "./contexts/themeContext";
 import HomeComponent from "./components/Home";
 
 function App() {
